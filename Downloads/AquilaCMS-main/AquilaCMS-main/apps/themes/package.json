@@ -1,8 +1,0 @@
-{
-  "name": "@aquilacms/themes",
-  "description": "AquilaCMS themes",
-  "private": true,
-  "workspaces": [
-    "default_theme_2"
-  ]
-}

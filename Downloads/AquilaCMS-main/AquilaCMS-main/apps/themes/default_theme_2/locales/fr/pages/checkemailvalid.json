@@ -1,7 +1,0 @@
-{
-    "title" : "Activation du compte",
-    "description" : "Activation du compte",
-    "titleH1" : "Activation du compte",
-    "accountActive" : "Votre compte est maintenant activé !",
-    "accountInactive" : "Ce token n'existe pas ou a déjà été utilisé !"
-}

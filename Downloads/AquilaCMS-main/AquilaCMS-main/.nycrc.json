@@ -1,4 +1,0 @@
-{
-    "reporter": ["html"],
-    "report-dir": "./coverage"
-}

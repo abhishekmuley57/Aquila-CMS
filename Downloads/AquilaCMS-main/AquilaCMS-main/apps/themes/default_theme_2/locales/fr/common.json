@@ -1,8 +1,0 @@
-{
-  "previous": "Retour",
-  "message": {
-    "unknownError" : "Erreur inconnue",
-    "loginRequired" : "Vous devez être connecté pour cette action !",
-    "saveData" : "Informations enregistrées"
-  }
-}

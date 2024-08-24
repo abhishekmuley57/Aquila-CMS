@@ -1,9 +1,0 @@
-{
-    "statsTodaySchema": {
-        "description": "",
-        "properties": {
-            "visit"   : {"type": "array", "default": []},
-            "oldCart" : {"type": "number", "default": 0}
-        }
-    }
-}
